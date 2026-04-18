@@ -1,137 +1,117 @@
-# Aliziwencoko-portfolio
-**Junior Full-Stack Developer | UI/UX Designer**
+# Aliziwe Ncoko - Portfolio
+
+<div align="center">
+
+*Junior Full-Stack Developer | UI/UX Designer*
+
+[Email](mailto:221171592@mycput.ac.za) • [GitHub](https://github.com/NcokoAliziwe) • [Phone](tel:0792526142)
+
+</div>
 
 ---
 
-##  Professional Summary
-Final-year Diploma in ICT (Multimedia Applications) student at Cape Peninsula University of Technology with strong skills in front-end development, UI/UX design, and database-driven applications. Experienced in developing interactive prototypes and structured academic projects using Java, JavaScript, Python, and MySQL. Seeking WIL placement to contribute technical and creative skills in a professional development environment.
+## 👋 About Me
+
+Final-year ICT (Multimedia Applications) student at Cape Peninsula University of Technology with a passion for creating intuitive, user-centered applications. I combine technical development skills with design expertise to build engaging digital experiences. Currently seeking a WIL placement to contribute technical and creative solutions in a professional environment.
 
 ---
 
-## Projects
+## 💼 Experience
 
-### UI/UX Mobile App Redesign (Academic Team Project)
-- Designed high-fidelity mobile prototype using Figma  
-- Improved user navigation flow and interface consistency  
-- Applied user-centered design principles to enhance usability  
-- Presented final prototype and design decisions to lecturers  
+### Community Advisory Board Member
+*Desmond Tutu TB Centre* | 2018 – Present
+- Represent youth perspectives in public health research discussions and community engagement
+- Act as liaison between research teams and community stakeholders
+- Contribute to structured communication initiatives and knowledge exchange
+
+### Retail Sales Assistant
+*Truworths* | Sep 2023 – Feb 2024
+- Assisted customers with product selection and provided professional service in fast-paced environment
+- Maintained visual merchandising standards and optimized display layouts
+- Developed strong communication and customer service skills
+
+---
+
+## 🎯 Featured Projects
+
+### UI/UX Mobile App Redesign
+*Academic Team Project*
+- *Design Tool:* Figma  
+- Designed high-fidelity mobile prototype with improved user navigation flow
+- Applied user-centered design principles to enhance interface consistency and usability
+- Presented design decisions and prototype to stakeholders and lecturers
 
 ### Basic CRUD Web Application
-- Developed a simple web application using HTML, CSS, and JavaScript  
-- Implemented Create, Read, Update, and Delete (CRUD) functionality  
-- Structured and managed user input data for dynamic interaction  
+*Personal Project*
+- *Tech Stack:* HTML, CSS, JavaScript
+- Developed fully functional web application with Create, Read, Update, and Delete operations
+- Implemented dynamic user interactions with structured data management
 
 ---
 
-## Experience
+## 🛠️ Technical Skills
 
-### Community Advisory Board Member  
-**Desmond Tutu TB Centre | 2018 — Present**
-- Represent youth perspectives in public health research discussions  
-- Act as liaison between research teams and community stakeholders  
-- Contribute to structured engagement and communication initiatives  
-
-### Retail Sales Assistant  
-**Truworths | SEP 2023 - FEB 2024**
-- Assisted customers with product selection and inquiries  
-- Maintained visual merchandising and organized displays  
-- Delivered professional service in a fast-paced retail environment  
+| Category | Skills |
+|----------|--------|
+| *Languages* | Java (OOP fundamentals), Python, JavaScript |
+| *Web Development* | HTML5, CSS3, React (Basic), Node.js (Basic) |
+| *Database* | MySQL (CRUD, relational database design) |
+| *Design Tools* | Figma, Adobe Illustrator, Adobe InDesign |
+| *Development Tools* | VS Code, Visual Studio, NetBeans |
 
 ---
 
-##  Contact
--  Email: 221171592@mycput.ac.za  
-- Phone: 079 252 6142  
-- GitHub: https://github.com/NcokoAIiziwe  
-- Address: 10 Caledon St, Cape Town  
+## 🎓 Education
+
+*Diploma in ICT (Multimedia Applications)*  
+Cape Peninsula University of Technology | 2024 – Current
+
+*High School*  
+Western Cape Sport School | Completed 2020
 
 ---
 
-##  Education
-- **Diploma in ICT (Multimedia Applications)** (2024 – Current)  
-  Cape Peninsula University of Technology  
+## 📚 Reflections & Learning
 
-- **High School**  
-  Western Cape Sport School (Completed 2020)  
+### 💻 Coding in Markdown
+*Challenge:* Create a professional GitHub portfolio using Markdown  
+*Solution:* Mastered Markdown syntax (headings, links, media embedding) to structure content clearly  
+*Outcome:* Built a clean, readable, and well-organized portfolio
 
----
+### 🎥 Mock Interview Experience
+*Challenge:* Present myself professionally in a simulated interview  
+*Solution:* Practiced answering technical and behavioral questions to refine communication skills  
+*Outcome:* Increased confidence and better self-awareness of strengths
+[Watch the video](https://youtu.be/WYZK_DwcxrM)
 
-## Technical Skills
-
-**Programming:**  
-Java (OOP fundamentals), Python, JavaScript  
-
-**Web Development:**  
-HTML, CSS, React (basic), Node.js (basic)  
-
-**Database:**  
-MySQL (CRUD operations, relational database design)  
-
-**UI/UX & Design:**  
-Figma, Adobe Illustrator, Adobe InDesign  
-
-**Development Tools:**  
-VS Code, Visual Studio, NetBeans  
+### 🌐 GitHub Pages Deployment
+*Challenge:* Publish portfolio online for professional visibility  
+*Solution:* Configured GitHub Pages settings and linked repository for live deployment  
+*Outcome:* Portfolio now accessible online and easily shareable
 
 ---
 
-##  References
+## 📞 Contact & References
 
-### Lecturer  
-**Meagan Hamman**  
-- Email: hammanm@cput.ac.za  
-- Phone: 021 460 3752 
+*Direct Contact*
+- 📧 Email: [221171592@mycput.ac.za](mailto:221171592@mycput.ac.za)
+- 📱 Phone: [079 252 6142](tel:0792526142)
+- 🔗 GitHub: [github.com/NcokoAliziwe](https://github.com/NcokoAliziwe)
+- 📍 Location: Cape Town, South Africa
 
-### Liaison Manager  
-**Gwynneth Hendricks**  
-- Email: gwynneth@sun.ac.za  
-- Phone: 082 708 0627
+*Professional References*
 
-## 🎥 Mock Interview
- Project Highlights  - Developed a professional CV showcasing my skills and experience   - 🎥 Interview Mock-up Video 
+| Name | Role | Contact |
+|------|------|---------|
+| Meagan Hamman | Lecturer | [hammanm@cput.ac.za](mailto:hammanm@cput.ac.za) • 021 460 3752 |
+| Gwynneth Hendricks | Liaison Manager | [gwynneth@sun.ac.za](mailto:gwynneth@sun.ac.za) • 082 708 0627 |
 
-[Watch the video](https://youtu.be/WYZK_DwcxrM),
+---
 
+<div align="center">
 
-##  Reflection: Coding in Markdown
+⭐ *Actively seeking WIL placement opportunities* ⭐
 
-**Situation:**  
-I had to create a GitHub portfolio using Markdown.
+Last updated: 2024
 
-**Task:**  
-My task was to structure content clearly and professionally.
-
-**Action:**  
-I learned Markdown syntax like headings, links, and embedding media.
-
-**Result:**  
-I successfully created a clean and readable portfolio.
-
-
-## 🎤 Reflection: Mock Interview
-
-**Situation:**  
-I participated in a mock interview.
-
-**Task:**  
-I needed to present myself professionally.
-
-**Action:**  
-I practiced answering questions and improved communication.
-
-**Result:**  
-I became more confident and aware of my strengths.
-
-## 🌐 Reflection: GitHub Pages
-
-**Situation:**  
-I needed to publish my portfolio online.
-
-**Task:**  
-Deploy the repository using GitHub Pages.
-
-**Action:**  
-I configured settings and linked my repository.
-
-**Result:**  
-My portfolio is now accessible online.
+</div>
