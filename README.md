@@ -86,3 +86,52 @@ VS Code, Visual Studio, NetBeans
 **Gwynneth Hendricks**  
 - Email: gwynneth@sun.ac.za  
 - Phone: 082 708 0627
+
+## 🎥 Mock Interview
+ Project Highlights  - Developed a professional CV showcasing my skills and experience   - 🎥 Interview Mock-up Video 
+
+[Watch the video](https://youtu.be/WYZK_DwcxrM),
+
+
+##  Reflection: Coding in Markdown
+
+**Situation:**  
+I had to create a GitHub portfolio using Markdown.
+
+**Task:**  
+My task was to structure content clearly and professionally.
+
+**Action:**  
+I learned Markdown syntax like headings, links, and embedding media.
+
+**Result:**  
+I successfully created a clean and readable portfolio.
+
+
+## 🎤 Reflection: Mock Interview
+
+**Situation:**  
+I participated in a mock interview.
+
+**Task:**  
+I needed to present myself professionally.
+
+**Action:**  
+I practiced answering questions and improved communication.
+
+**Result:**  
+I became more confident and aware of my strengths.
+
+## 🌐 Reflection: GitHub Pages
+
+**Situation:**  
+I needed to publish my portfolio online.
+
+**Task:**  
+Deploy the repository using GitHub Pages.
+
+**Action:**  
+I configured settings and linked my repository.
+
+**Result:**  
+My portfolio is now accessible online.
