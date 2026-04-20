@@ -2,7 +2,7 @@
 
 <div align="center">
 
-*Junior Full-Stack Developer | UI/UX Designer*
+#### Junior Full-Stack Developer | UI/UX Designer
 
 [Email](mailto:221171592@mycput.ac.za) • [GitHub](https://github.com/NcokoAliziwe) • [Phone](tel:0792526142)
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Final-year ICT (Multimedia Applications) student at Cape Peninsula University of Technology with a passion for creating intuitive, user-centered applications. I combine technical development skills with design expertise to build engaging digital experiences. Currently seeking a WIL placement to contribute technical and creative solutions in a professional environment.
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Community Advisory Board Member
 *Desmond Tutu TB Centre* | 2018 – Present
@@ -32,7 +32,7 @@ Final-year ICT (Multimedia Applications) student at Cape Peninsula University of
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 ### UI/UX Mobile App Redesign
 *Academic Team Project*
@@ -61,7 +61,7 @@ Final-year ICT (Multimedia Applications) student at Cape Peninsula University of
 
 ---
 
-## 🎓 Education
+## Education
 
 *Diploma in ICT (Multimedia Applications)*  
 Cape Peninsula University of Technology | 2024 – Current
@@ -71,9 +71,9 @@ Western Cape Sport School | Completed 2020
 
 ---
 
-## 📚 Reflections & Learning
+##  Reflections & Learning
 
-### 💻 Coding in Markdown  
+###  Coding in Markdown  
 **Challenge:**  
 Initially, I struggled to structure my portfolio in a way that was both visually appealing and easy to read using only Markdown. Understanding how to properly organise sections, format content, and maintain consistency across the document was challenging.
 
@@ -90,7 +90,7 @@ I successfully created a clean, structured, and professional README portfolio. T
 
 ---
 
-### 🎥 Mock Interview Experience  
+### Mock Interview Experience  
 **Challenge:**  
 I found it difficult to confidently communicate my skills, experiences, and strengths in a professional setting, especially under pressure.
 
@@ -109,7 +109,7 @@ My confidence improved significantly, and I became more aware of how to clearly 
 
 ---
 
-### 🌐 GitHub Pages Deployment  
+###  GitHub Pages Deployment  
 **Challenge:**  
 Publishing my portfolio online was initially confusing, especially understanding how GitHub Pages works and how to properly link my repository.
 
@@ -126,7 +126,7 @@ I successfully deployed my portfolio, making it accessible online and easy to sh
 
 ---
 
-### 🚀 Overall Reflection  
+###  Overall Reflection  
 
 Throughout this project, I developed both my **technical and professional skills**. I improved my ability to present my work clearly, communicate effectively, and apply user-centered design principles.
 
@@ -134,7 +134,7 @@ This portfolio reflects not only my current abilities but also my growth as a de
 
 ---
 
-## 📞 Contact & References
+## Contact & References
 
 ### Direct Contact
 - 📧 Email: [221171592@mycput.ac.za](mailto:221171592@mycput.ac.za)
@@ -153,7 +153,7 @@ This portfolio reflects not only my current abilities but also my growth as a de
 
 <div align="center">
 
-⭐ *Actively seeking WIL placement opportunities* ⭐  
+ *Actively seeking WIL placement opportunities* 
 
 
 
