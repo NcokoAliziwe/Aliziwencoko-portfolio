@@ -2,7 +2,7 @@
 
 <div align="center">
 
-#### Junior Full-Stack Developer | UI/UX Designer
+Junior Full-Stack Developer | UI/UX Designer
 
 [Email](mailto:221171592@mycput.ac.za) • [GitHub](https://github.com/NcokoAliziwe) • [Phone](tel:0792526142)
 
