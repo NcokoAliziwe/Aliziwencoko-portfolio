@@ -71,68 +71,78 @@ Western Cape Sport School | Completed 2020
 
 ---
 
-##  Reflections & Learning
+## 📚 Reflections & Learning
 
-###  Coding in Markdown  
-**Challenge:**  
-Initially, I struggled to structure my portfolio in a way that was both visually appealing and easy to read using only Markdown. Understanding how to properly organise sections, format content, and maintain consistency across the document was challenging.
+### Reflection: Learning Markdown (STAR)
 
-**Solution:**  
-I explored different Markdown techniques such as headings, lists, tables, links, and embedded media. I also researched well-designed GitHub portfolios to understand best practices and applied those principles to my own work.
+**Situation**  
+I was required to build a digital portfolio using GitHub and Markdown.
 
-**Outcome:**  
-I successfully created a clean, structured, and professional README portfolio. This process improved my attention to detail and taught me how to present technical content in a clear and user-friendly way, which is an essential skill for both developers and designers.
+**Task**  
+My task was to learn how Markdown works and present myself professionally online.
 
-**What I Learned:**  
-- The importance of readability and structure in technical documentation  
-- How Markdown can be used as a powerful tool for professional presentation  
-- How to balance simplicity with visual appeal  
+**Action**  
+I practiced using headings, lists, links, images, and proper formatting until I could create a clean and well-structured portfolio.
 
----
+**Result**  
+I successfully created a professional portfolio while gaining valuable Markdown and documentation skills.
 
-### Mock Interview Experience  
-**Challenge:**  
-I found it difficult to confidently communicate my skills, experiences, and strengths in a professional setting, especially under pressure.
-
-**Solution:**  
-I prepared by reviewing common interview questions and practicing structured responses using the STAR method (Situation, Task, Action, Result).
-
-**Outcome:**  
-My confidence improved significantly, and I became more aware of how to clearly articulate my thoughts and experiences. I also learned how to present myself professionally and maintain effective communication.
-
-**What I Learned:**  
-- The importance of preparation and self-reflection  
-- How to structure answers in a clear and impactful way  
-- How to communicate both technical and soft skills effectively  
-
-🎥 [Watch the video](https://youtu.be/WYZK_DwcxrM)
+**Reflection**  
+This activity taught me the importance of clear documentation and presenting technical work in a professional and readable way.
 
 ---
 
-###  GitHub Pages Deployment  
-**Challenge:**  
-Publishing my portfolio online was initially confusing, especially understanding how GitHub Pages works and how to properly link my repository.
+### Reflection: Mock Interview (STAR)
 
-**Solution:**  
-I followed documentation and tutorials to correctly configure GitHub Pages and ensure my project structure supported deployment.
+**Situation**  
+I had to prepare for a mock interview as part of my professional development.
 
-**Outcome:**  
-I successfully deployed my portfolio, making it accessible online and easy to share with others, including potential employers.
+**Task**  
+My goal was to answer interview questions confidently and professionally.
 
-**What I Learned:**  
-- How to deploy projects using GitHub Pages  
-- The importance of an online professional presence  
-- Basic concepts of hosting and version control  
+**Action**  
+I practiced common interview questions, prepared my appearance, and focused on speaking clearly using the STAR method.
+
+**Result**  
+I became more confident in presenting myself and explaining my skills and experiences.
+
+**Reflection**  
+The mock interview helped me improve my communication skills and prepared me for future job interviews.
+
+---
+
+### Reflection: GitHub Pages Deployment (STAR)
+
+**Situation**  
+I needed to publish my portfolio online using GitHub Pages.
+
+**Task**  
+My task was to learn how to deploy a website and make it publicly accessible.
+
+**Action**  
+I uploaded my project to GitHub, configured GitHub Pages, and tested the live website to ensure everything worked correctly.
+
+**Result**  
+I successfully deployed my portfolio and gained practical experience in website hosting.
+
+**Reflection**  
+This experience taught me the importance of deployment and maintaining an online professional presence.
 
 ---
 
-###  Overall Reflection  
+## 🎥 Demo Video
 
-Throughout this project, I developed both my **technical and professional skills**. I improved my ability to present my work clearly, communicate effectively, and apply user-centered design principles.
+Click the image below to watch my demo video.
 
-This portfolio reflects not only my current abilities but also my growth as a developer and designer. It has prepared me to enter a professional environment where I can contribute meaningfully while continuing to learn and improve.
+[![Demo Video](https://img.youtube.com/vi/WYZK_DwcxrM/maxresdefault.jpg)](https://youtu.be/WYZK_DwcxrM)
 
 ---
+
+## 🌟 Overall Reflection
+
+This project helped me develop both technical and professional skills. I learned how to use Markdown effectively, deploy a website with GitHub Pages, and communicate more confidently through the mock interview process.
+
+Overall, the portfolio demonstrates my growth as an aspiring software developer and has prepared me for future academic and professional opportunities.
 
 ## Contact & References
 
